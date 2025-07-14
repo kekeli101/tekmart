@@ -11,7 +11,7 @@ Whether you're looking to sell buy without leaving your hostel — Tekmart makes
 ### 1. ✅ Student Verification System
 To ensure a trusted environment, all users must verify their identity using their official KNUST email address (@knust.edu.gh). Verified profiles display a badge to build trust and accountability.
 
-How It Works:
+#### How It Works:
 
 Register with your KNUST email.
 Receive an automatic verification link.
