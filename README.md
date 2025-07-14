@@ -78,16 +78,16 @@ iOS
 ✅ Available
 
 ### 🛠️ How It Works
-Download & Sign Up
-Use your KNUST email address for verification.
-Get started in minutes.
-Buy Something
-Browse or search for what you need. 
-Chat with the seller if needed. 
-Place order and choose payment method. 
-Sell Something. 
-Set up your free store.
-Upload product details and photos.
-Start receiving orders and messages.
-Pickup/Deliver
-Arrange a convenient pickup or delivery point on campus
+- Download & Sign Up
+- Use your KNUST email address for verification.
+- Get started in minutes.
+- Buy Something
+- Browse or search for what you need. 
+- Chat with the seller if needed. 
+- Place order and choose payment method. 
+- Sell Something. 
+- Set up your free store.
+- Upload product details and photos.
+- Start receiving orders and messages.
+- Pickup/Deliver
+- Arrange a convenient pickup or delivery point on campus
