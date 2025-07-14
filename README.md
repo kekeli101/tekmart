@@ -12,34 +12,35 @@ Whether you're looking to sell buy without leaving your hostel — Tekmart makes
 To ensure a trusted environment, all users must verify their identity using their official KNUST email address (@knust.edu.gh). Verified profiles display a badge to build trust and accountability.
 
 #### How It Works:
+Register with your KNUST email.  
+Receive an automatic verification link.  
+Verified users can start buying/selling immediately.  
 
-Register with your KNUST email.
-Receive an automatic verification link.
-Verified users can start buying/selling immediately.
-Benefits:
+#### Benefits:  
+Prevents misuse and fraud.  
+Promotes safety and credibility.  
+Encourages responsible behavior among users.  
 
-Prevents misuse and fraud.
-Promotes safety and credibility.
-Encourages responsible behavior among users.
+---
 
 ### 2. 💬 In-App Messaging
 Tekmart includes a built-in messaging system that allows buyers and sellers to communicate directly within the app — keeping personal contact information private.
 
-Features:
+#### Features:  
+Real-time chat  
+Message history & notifications  
 
-Real-time chat
-Message history & notifications
+#### How It Works:  
+Buyers message sellers directly from product pages.  
+Sellers receive alerts and respond instantly via the app.  
+All messages are securely stored in-app.  
 
-How It Works:
+#### Benefits:  
+Eliminates the need to switch apps for communication.  
+Encourages negotiation and clarity before purchases.  
+Keeps interactions safe and traceable.  
 
-Buyers message sellers directly from product pages.
-Sellers receive alerts and respond instantly via the app.
-All messages are securely stored in-app.
-Benefits:
-
-Eliminates the need to switch apps for communication.
-Encourages negotiation and clarity before purchases.
-Keeps interactions safe and traceable.
+---
 
 ### 3. 🛍️ Buying and Selling on Campus
 Tekmart is specifically tailored for on-campus transactions , making it ideal for KNUST students who want to trade quickly and conveniently.
