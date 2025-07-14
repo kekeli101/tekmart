@@ -91,3 +91,6 @@ iOS
 - Start receiving orders and messages.
 - Pickup/Deliver
 - Arrange a convenient pickup or delivery point on campus
+- Apples
+- Bananas
+- Oranges
