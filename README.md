@@ -80,6 +80,8 @@ Builds trust through feedback.
 Encourages respectful and reliable behavior.  
 Helps users choose trustworthy partners.  
 
+---
+
 ### 📲 Supported Platforms
 Android  
 ✅Available on Google Play Store  
