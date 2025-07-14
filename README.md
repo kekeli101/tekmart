@@ -12,10 +12,12 @@ Whether you're looking to sell buy without leaving your hostel — Tekmart makes
 To ensure a trusted environment, all users must verify their identity using their official KNUST email address (@knust.edu.gh). Verified profiles display a badge to build trust and accountability.
 
 How It Works:
+
 Register with your KNUST email.
 Receive an automatic verification link.
 Verified users can start buying/selling immediately.
 Benefits:
+
 Prevents misuse and fraud.
 Promotes safety and credibility.
 Encourages responsible behavior among users.
@@ -24,14 +26,17 @@ Encourages responsible behavior among users.
 Tekmart includes a built-in messaging system that allows buyers and sellers to communicate directly within the app — keeping personal contact information private.
 
 Features:
+
 Real-time chat
 Message history & notifications
 
 How It Works:
+
 Buyers message sellers directly from product pages.
 Sellers receive alerts and respond instantly via the app.
 All messages are securely stored in-app.
 Benefits:
+
 Eliminates the need to switch apps for communication.
 Encourages negotiation and clarity before purchases.
 Keeps interactions safe and traceable.
@@ -40,12 +45,14 @@ Keeps interactions safe and traceable.
 Tekmart is specifically tailored for on-campus transactions , making it ideal for KNUST students who want to trade quickly and conveniently.
 
 For Buyers:
+
 Browse products and services from fellow students.
 Filter by category (Books, Electronics, Food, Services, etc.).
 Place orders and arrange pickup/delivery on campus.
 Choose payment method: Mobile Money or Cash-on-Delivery.
 
 For Sellers:
+
 Create a free digital storefront.
 Upload photos, set prices, and manage listings easily.
 Run promotions and featured ads.
@@ -60,13 +67,16 @@ Ideal for clothing, electronic gadgets, food, stationery, and freelance jobs.
 After each transaction, both parties can rate and review each other to promote transparency and quality service.
 
 How It Works:
+
 Both buyer and seller rate each other after completing a transaction.
 Written reviews help build user reputation.
 Ratings are publicly visible on user profiles.
 Example Scenarios:
+
 A buyer rates how fast the item was delivered.
 A seller rates whether the buyer paid on time.
 Benefits:
+
 Builds trust through feedback.
 Encourages respectful and reliable behavior.
 Helps users choose trustworthy partners.
