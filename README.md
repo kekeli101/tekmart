@@ -45,24 +45,24 @@ Keeps interactions safe and traceable.
 ### 3. 🛍️ Buying and Selling on Campus
 Tekmart is specifically tailored for on-campus transactions , making it ideal for KNUST students who want to trade quickly and conveniently.
 
-For Buyers:
+#### For Buyers:  
+Browse products and services from fellow students.  
+Filter by category (Books, Electronics, Food, Services, etc.).  
+Place orders and arrange pickup/delivery on campus.  
+Choose payment method: Mobile Money or Cash-on-Delivery.  
 
-Browse products and services from fellow students.
-Filter by category (Books, Electronics, Food, Services, etc.).
-Place orders and arrange pickup/delivery on campus.
-Choose payment method: Mobile Money or Cash-on-Delivery.
+#### For Sellers:
+Create a free digital storefront.  
+Upload photos, set prices, and manage listings easily.  
+Run promotions and featured ads.  
+Track orders and manage inventory from your phone.  
 
-For Sellers:
+#### On-Campus Benefits:  
+No shipping costs.  
+Fast delivery/pickup within campus.  
+Ideal for clothing, electronic gadgets, food, stationery, and freelance jobs.  
 
-Create a free digital storefront.
-Upload photos, set prices, and manage listings easily.
-Run promotions and featured ads.
-Track orders and manage inventory from your phone.
-
-On-Campus Benefits:
-No shipping costs.
-Fast delivery/pickup within campus.
-Ideal for clothing, electronic gadgets, food, stationery, and freelance jobs.
+---
 
 ### 4. ⭐ Seller-Buyer Rating & Review System
 After each transaction, both parties can rate and review each other to promote transparency and quality service.
