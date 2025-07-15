@@ -87,6 +87,8 @@ Helps users choose trustworthy partners.
   
 ✅ iOS
 
+---
+
 ### 🛠️ How It Works
 - Download & Sign Up
 - Use your KNUST email address for verification.
