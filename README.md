@@ -82,11 +82,10 @@ Helps users choose trustworthy partners.
 
 ---
 
-### 📲 Supported Platforms
-Android  
-✅Available on Google Play Store  
-iOS  
-✅ Available  
+### 📲 Supported Platforms  
+✅  Android
+  
+✅ iOS
 
 ### 🛠️ How It Works
 - Download & Sign Up
