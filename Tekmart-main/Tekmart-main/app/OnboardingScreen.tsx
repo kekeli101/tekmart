@@ -16,6 +16,7 @@ import {
 } from 'react-native';
 import { NavigationProp, ParamListBase } from '@react-navigation/native';
 import { Colors } from '../constants/Colors';
+import { router } from 'expo-router';
 const { width, height } = Dimensions.get('window');
 
 
@@ -170,7 +171,7 @@ const OnboardingScreen: FC<OnboardingProps> = ({ navigation }) => {
     if (currentIndex < slides.length - 1) {
       ref.current?.scrollToOffset({ offset: (currentIndex + 1) * width });
     } else {
-      navigation.navigate('Auth', { screen: 'Login' });
+      router.push('/Login')
     }
   };
 
