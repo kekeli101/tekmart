@@ -212,7 +212,7 @@ const LoginScreen: FC = () => {
             return;
         }
         
-        router.push('/(tabs)/home')
+        router.push('/(tabs)/a_home')
     }
 
     return(
@@ -270,7 +270,7 @@ const LoginScreen: FC = () => {
                         </TouchableOpacity>
                     </View>
                     <TouchableOpacity style={styles.forgotContainer}>
-                        <Link href='/explore'>
+                        <Link href='/'>
                             <Text style={styles.forgotText}>Forgot Password?</Text>
                         </Link>
                     </TouchableOpacity>
