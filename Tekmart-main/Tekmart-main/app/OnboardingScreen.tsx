@@ -123,6 +123,12 @@ const OnboardingScreen: FC<OnboardingProps> = ({ navigation }) => {
     }
   };
 
+  //skip to login
+  const skip = () => {
+    router.push('/Login');
+  };
+
+
   return (
     <SafeAreaView style={styles.container}>
       <StatusBar
@@ -200,6 +206,24 @@ const OnboardingScreen: FC<OnboardingProps> = ({ navigation }) => {
             {currentIndex === slides.length - 1 ? 'Get Started' : 'Next'}
           </Text>
         </TouchableOpacity>
+        {/* Skip button for first slide */}
+        {currentIndex === 0 ? (
+          <TouchableOpacity
+            onPress={skip}
+            style={styles.skipButtonOne}
+          >
+            <Text style={styles.skipTextSmall}>Skip</Text>
+          </TouchableOpacity>
+        ) : null}
+
+        {/* Skip button for other slides */}
+
+        <TouchableOpacity
+          onPress={skip}
+          style={styles.skipButton}
+          >
+          <Text style={styles.skipTextSmall}>Skip</Text>
+          </TouchableOpacity>
       </View>
     </SafeAreaView>
   );
@@ -264,7 +288,7 @@ const styles = StyleSheet.create({
   },
   footer: {
     position: 'absolute',
-    bottom: width * 0.09,
+    bottom: width * 0.15,
     flexDirection: 'row',
     justifyContent: 'space-between',
     alignItems: 'center',
@@ -274,7 +298,7 @@ const styles = StyleSheet.create({
   arrowButton: { padding: 10,  },
   arrowButtonPlaceholder: { width: 44, },
   nextButton: {
-    width: width * 0.85,
+    width: width * 0.86,
     paddingVertical: 12,
     borderRadius: 5,
     backgroundColor: Colors.light.primary,
@@ -292,7 +316,7 @@ const styles = StyleSheet.create({
     left: width * 0.06,
 
   },
-    getStartedButton: {
+  getStartedButton: {
     width: width * 0.66,
     paddingVertical: 12,
     borderRadius: 5,
@@ -302,6 +326,32 @@ const styles = StyleSheet.create({
   },
   nextText: {
     color: Colors.light.background,
+    fontFamily: 'InterSemi-Bold',
+    fontSize: width * 0.035,
+    width: '100%',
+    alignItems: 'center',
+    textAlign: 'center',
+  },
+  skipButtonOne: {
+    width: width * 0.86,
+    paddingVertical: 12,
+    borderRadius: 5,
+    backgroundColor: '#E4E4E4',
+    alignItems: 'center',
+    left: width * -0.94,
+    bottom: width * -0.101,
+  },
+  skipButton: {
+    width: width * 0.86,
+    paddingVertical: 12,
+    borderRadius: 5,
+    backgroundColor: '#E4E4E4',
+    alignItems: 'center',
+    left: width * -0.80,
+    bottom: width * -0.121,
+  },
+  skipTextSmall: {
+    color: 'black',
     fontFamily: 'InterSemi-Bold',
     fontSize: width * 0.035,
     width: '100%',
