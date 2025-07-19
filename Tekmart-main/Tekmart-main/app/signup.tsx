@@ -1,5 +1,4 @@
 import React, {useState,useRef,useEffect,FC} from "react";
-import { useFonts } from "expo-font";
 import { router, Link } from 'expo-router';
 import { 
     View,
@@ -284,7 +283,7 @@ const LoginScreen: FC = () => {
         }
         
         // If all validations pass, proceed with signup
-        router.push('/(tabs)/home')
+        router.push('/(tabs)/a_home')
     }
 
     return(
@@ -407,8 +406,10 @@ const LoginScreen: FC = () => {
                     style={[
                         { opacity: isFormValid ? 1 : 0.5 }
                     ]}
-                >
-                    <Text style={[styles.button, !isFormValid && styles.buttonDisabled]}>Next</Text>
+                >   
+                <Link href={'/email_verification'} style= {styles.button}>
+                        <Text style={[!isFormValid && styles.buttonDisabled]}>Next</Text>
+                    </Link>
                 </TouchableOpacity>
 
                 {/* Divider */}
